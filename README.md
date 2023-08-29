@@ -1,5 +1,5 @@
 # Fashion-MNIST-GAN-Keras
-- Generative Adversarial Networks (GANs) are a powerful class of neural networks that are used for unsupervised learning.
+- Dataset used :- https://keras.io/api/datasets/fashion_mnist/
 # Generative Adversal Networks (GAN's)
 
 ### Introduction
@@ -8,7 +8,6 @@
 - It was developed and introduced by Ian J. Goodfellow in 2014.
 - GANs are basically made up of a system of two competing neural network models which compete with each other and are able to analyze, capture and copy the variations within a dataset.
 
-- Generative adversarial networks (GANs) are an exciting recent innovation in machine learning.
 - GANs are generative models: they create new data instances that resemble your training data.
 
 For example, GANs can create images that look like photographs of human faces, even though the faces don't belong to any real person.
